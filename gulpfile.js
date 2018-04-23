@@ -84,7 +84,8 @@ let vendorJs = [
 
 /*------------pathes to plugins and style libraries------------*/
 let vendorCss = [
-    'node_modules/normalize-css/normalize.css'
+	 'node_modules/normalize-css/normalize.css',
+	 'app/styles/cssLibraries/fontello.css'
 ];
 
 /*-------combining plugins and JS libraries in one file--------*/
